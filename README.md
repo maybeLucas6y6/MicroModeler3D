@@ -1,2 +1,2 @@
 # MicroModeler3D
-![Preview](Screenshot 2023-11-24 020354.png)
+![Preview](https://github.com/maybeLucas6y6/MicroModeler3D/blob/master/micromodeler3d.png?raw=true)
